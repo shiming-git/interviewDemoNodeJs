@@ -1,0 +1,1 @@
+import{_ as n,b as o,o as t,k as r,w as c,g as a}from"./index-59750118.js";const s={};function _(d,f){const e=o("n-card");return t(),r(e,null,{default:c(()=>[a("订单信息")]),_:1})}const i=n(s,[["render",_]]);export{i as default};
